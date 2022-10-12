@@ -1,5 +1,5 @@
-[![@kartikkankurte's Holopin board](https://holopin.io/api/user/board?user=kartikkankurte)](https://holopin.io/@kartikkankurte)
 <h1 align="center">Hi 👋, I'm Kartik Kankurte</h1>
+[![@kartikkankurte's Holopin board](https://holopin.io/api/user/board?user=kartikkankurte)](https://holopin.io/@kartikkankurte)
 <h3 align="center">A Passionate Developer | Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkartik07&label=Profile%20views&color=0e75b6&style=flat" alt="kkartik07" /> </p>
