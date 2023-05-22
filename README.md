@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkartik07](https://github.com/kkartik07)
 
-- 📄 Check my Portfolio Website :) [https://new-portfolio-kkartik07.vercel.app/](https://kkartik07.github.io/portfolio/)
+- 📄 Check my Portfolio Website :) [https://new-portfolio-kkartik07.vercel.app/](https://new-portfolio-kkartik07.vercel.app/)
 
 - 📫 How to reach me **kartikkankurte@gmail.com**
 
