@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkartik07" alt="kkartik07" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA?identity__email=kartikkankurte%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></span> </p>
 
 
-- 🌱 I’m currently learning **Solidity and Ethereum Blockchain**
+- 🌱 I’m currently learning **CS core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkartik07](https://github.com/kkartik07)
 
@@ -26,12 +26,6 @@
 <a href="https://stackoverflow.com/users/16200639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16200639" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikkankurte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikkankurte" height="30" width="40" /></a>
 <a href="https://medium.com/@kartikkankurte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kartikkankurte" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kingkartik_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kingkartik_7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikkankurte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikkankurte" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kingkartik_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kingkartik_7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kartikkankurte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikkankurte" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kartik1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kartik1214" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kartikkankurte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartikkankurte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
