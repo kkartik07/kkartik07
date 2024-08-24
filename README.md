@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkartik07&label=Profile%20views&color=0e75b6&style=flat" alt="kkartik07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkartik07" alt="kkartik07" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA?identity__email=kartikkankurte%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></span> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkartik07" alt="kkartik07" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA?identity__email=kartikkankurte%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4qW6Y74CR86ncX8tC88uJA/image"></a>
 
 
 - 🌱 I’m currently learning **CS core**
